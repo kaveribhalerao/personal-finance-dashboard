@@ -15,7 +15,7 @@ DAX for advanced calculations
 Power Query for data transformation and integration
 This dashboard is perfect for anyone looking to get better control over their personal finances and make data-driven decisions.
 
-Instructions:
+Instructions :
 Download the Power BI file (.pbix) to your local machine.
 Import your financial data (CSV, Excel, etc.) to populate the dashboard.
 Customize the visuals and metrics according to your preferences.
