@@ -18,4 +18,4 @@ This dashboard is perfect for anyone looking to get better control over their pe
 Instructions:
 Download the Power BI file (.pbix) to your local machine.
 Import your financial data (CSV, Excel, etc.) to populate the dashboard.
-Customize the visuals and metrics according to your preferences
+Customize the visuals and metrics according to your preferences.
